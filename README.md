@@ -20,7 +20,7 @@ Sempre aprendendo, explorando novas tecnologias e aplicando boas práticas de en
 -  Django & Django REST Framework  
 
 ### Banco de Dados  
-- 🐘 PostgreSQL  
+-  PostgreSQL  
 
 ---
 
