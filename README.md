@@ -1,7 +1,4 @@
 # Hey, eu sou o Ícaro! 
-
-dev **Web & Mobile**; 
-
 ---
 ### Linguagens  
 -  python
