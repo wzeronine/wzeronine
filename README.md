@@ -2,7 +2,9 @@
 ---
 ### Linguagens  
 -  python
+-  php
 -  go
+-  rust
 -  dart
 -  java  
 -  kotlin   
@@ -10,9 +12,10 @@
 
 ### Frameworks
 -  django
+-  fastapi
 -  flutter  
 -  jquery
--  postsql  
+   
 --- 
 
 nano, vs, vim, se sublime tivesse console batia todos; html é legal & css é foda; go pra cacete, mas python sempre;
